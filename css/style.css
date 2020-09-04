@@ -126,6 +126,7 @@ body {
   letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 14px;
+  font-style: normal;
   line-height: 1.15;
   text-decoration: none;
   display: inline-block;
@@ -475,6 +476,7 @@ body {
 
 .adrress-span {
   color: var(--white-color);
+  font-style: normal;
   letter-spacing: 0.03em;
   font-size: 14px;
   line-height: 1.7;
@@ -484,6 +486,7 @@ body {
 
 .mail-phone {
   color: var(--footer-address-color);
+  font-style: normal;
   letter-spacing: 0.03em;
   font-size: 14px;
   line-height: 1.7;
